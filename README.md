@@ -1,3 +1,3 @@
-# kakao clone
+# kokoa clone 2022 update
 
-css
+css got so much better ! 
